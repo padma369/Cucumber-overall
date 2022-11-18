@@ -1,0 +1,118 @@
+2022-11-04 05:57:42,854 - nopCommApplication -INFO - Execution on browser: chrome
+2022-11-04 05:57:46,045 - nopCommApplication -INFO - ***********Maximize browser***********
+2022-11-04 05:57:46,281 - nopCommApplication -INFO - Application URL: https://admin-demo.nopcommerce.com/login?ReturnUrl=%2Fadmin%2F
+2022-11-04 05:57:47,437 - nopCommApplication -INFO - enter userName admin@yourstore.com
+2022-11-04 05:57:47,655 - nopCommApplication -INFO - enter password admin
+2022-11-04 05:57:47,834 - nopCommApplication -INFO - click on login button
+2022-11-04 05:57:50,818 - nopCommApplication -INFO - Application Title: Dashboard / nopCommerce administration
+2022-11-04 05:57:53,836 - nopCommApplication -INFO - click on login button
+2022-11-04 05:57:55,037 - nopCommApplication -INFO - Application Title: Your store. Login
+2022-11-04 05:57:58,054 - nopCommApplication -INFO - close the browser
+2022-11-07 01:17:56,423 - nopCommApplication -INFO - Execution on browser: chrome
+2022-11-07 01:18:00,756 - nopCommApplication -INFO - ***********executeBeforeEachStep***********
+2022-11-07 01:18:00,758 - nopCommApplication -INFO - ***********Maximize browser***********
+2022-11-07 01:18:00,970 - nopCommApplication -INFO - ***********executeBeforeEachStep***********
+2022-11-07 01:18:00,973 - nopCommApplication -INFO - Application URL: https://admin-demo.nopcommerce.com/login?ReturnUrl=%2Fadmin%2F
+2022-11-07 01:18:02,042 - nopCommApplication -INFO - ***********executeBeforeEachStep***********
+2022-11-07 01:18:02,044 - nopCommApplication -INFO - enter userName admin@yourstore.com
+2022-11-07 01:18:02,261 - nopCommApplication -INFO - enter password admin
+2022-11-07 01:18:02,431 - nopCommApplication -INFO - ***********executeBeforeEachStep***********
+2022-11-07 01:18:02,431 - nopCommApplication -INFO - click on login button
+2022-11-07 01:18:05,415 - nopCommApplication -INFO - ***********executeBeforeEachStep***********
+2022-11-07 01:18:05,416 - nopCommApplication -INFO - Application Title: Dashboard / nopCommerce administration
+2022-11-07 01:18:08,428 - nopCommApplication -INFO - ***********executeBeforeEachStep***********
+2022-11-07 01:18:08,437 - nopCommApplication -INFO - click on login button
+2022-11-07 01:18:09,595 - nopCommApplication -INFO - ***********executeBeforeEachStep***********
+2022-11-07 01:18:09,596 - nopCommApplication -INFO - Application Title: Your store. Login
+2022-11-07 01:18:12,600 - nopCommApplication -INFO - ***********executeBeforeEachStep***********
+2022-11-07 01:18:12,600 - nopCommApplication -INFO - close the browser
+2022-11-07 01:18:13,003 - nopCommApplication -INFO - Execution on browser: chrome
+2022-11-07 01:18:14,643 - nopCommApplication -INFO - ***********executeBeforeEachStep***********
+2022-11-07 01:18:14,644 - nopCommApplication -INFO - ***********Maximize browser***********
+2022-11-07 01:18:14,880 - nopCommApplication -INFO - ***********executeBeforeEachStep***********
+2022-11-07 01:18:14,895 - nopCommApplication -INFO - Application URL: https://admin-demo.nopcommerce.com/login?ReturnUrl=%2Fadmin%2F
+2022-11-07 01:18:16,017 - nopCommApplication -INFO - ***********executeBeforeEachStep***********
+2022-11-07 01:18:16,018 - nopCommApplication -INFO - enter userName admin@yourstore.com
+2022-11-07 01:18:16,219 - nopCommApplication -INFO - enter password admin
+2022-11-07 01:18:16,389 - nopCommApplication -INFO - ***********executeBeforeEachStep***********
+2022-11-07 01:18:16,390 - nopCommApplication -INFO - click on login button
+2022-11-07 01:18:18,869 - nopCommApplication -INFO - ***********executeBeforeEachStep***********
+2022-11-07 01:18:18,870 - nopCommApplication -INFO - Application Title: Dashboard / nopCommerce administration
+2022-11-07 01:18:21,880 - nopCommApplication -INFO - ***********executeBeforeEachStep***********
+2022-11-07 01:18:21,886 - nopCommApplication -INFO - click on login button
+2022-11-07 01:18:23,094 - nopCommApplication -INFO - ***********executeBeforeEachStep***********
+2022-11-07 01:18:23,095 - nopCommApplication -INFO - Application Title: Your store. Login
+2022-11-07 01:18:26,099 - nopCommApplication -INFO - ***********executeBeforeEachStep***********
+2022-11-07 01:18:26,099 - nopCommApplication -INFO - close the browser
+2022-11-07 01:18:26,384 - nopCommApplication -INFO - Execution on browser: chrome
+2022-11-07 01:18:27,838 - nopCommApplication -INFO - ***********executeBeforeEachStep***********
+2022-11-07 01:18:27,838 - nopCommApplication -INFO - ***********Maximize browser***********
+2022-11-07 01:18:28,046 - nopCommApplication -INFO - ***********executeBeforeEachStep***********
+2022-11-07 01:18:28,046 - nopCommApplication -INFO - Application URL: https://admin-demo.nopcommerce.com/login?ReturnUrl=%2Fadmin%2F
+2022-11-07 01:18:28,717 - nopCommApplication -INFO - ***********executeBeforeEachStep***********
+2022-11-07 01:18:28,718 - nopCommApplication -INFO - enter userName admin123123@yourstore.com
+2022-11-07 01:18:28,923 - nopCommApplication -INFO - enter password admin123
+2022-11-07 01:18:29,063 - nopCommApplication -INFO - ***********executeBeforeEachStep***********
+2022-11-07 01:18:29,064 - nopCommApplication -INFO - click on login button
+2022-11-07 01:18:29,446 - nopCommApplication -INFO - ***********executeBeforeEachStep***********
+2022-11-07 01:18:29,447 - nopCommApplication -INFO - Application Title: Dashboard / nopCommerce administration
+2022-11-07 01:31:02,359 - nopCommApplication -INFO - Execution on browser: chrome
+2022-11-07 01:31:05,402 - nopCommApplication -INFO - ***********executeBeforeEachStep***********
+2022-11-07 01:31:05,403 - nopCommApplication -INFO - ***********Maximize browser***********
+2022-11-07 01:31:05,665 - nopCommApplication -INFO - ***********executeBeforeEachStep***********
+2022-11-07 01:31:05,665 - nopCommApplication -INFO - Application URL: https://admin-demo.nopcommerce.com/login?ReturnUrl=%2Fadmin%2F
+2022-11-07 01:31:06,818 - nopCommApplication -INFO - ***********executeBeforeEachStep***********
+2022-11-07 01:31:06,819 - nopCommApplication -INFO - enter userName admin@yourstore.com
+2022-11-07 01:31:07,046 - nopCommApplication -INFO - enter password admin
+2022-11-07 01:31:07,217 - nopCommApplication -INFO - ***********executeBeforeEachStep***********
+2022-11-07 01:31:07,217 - nopCommApplication -INFO - click on login button
+2022-11-07 01:31:10,616 - nopCommApplication -INFO - ***********executeBeforeEachStep***********
+2022-11-07 01:31:10,617 - nopCommApplication -INFO - Application Title: Dashboard / nopCommerce administration
+2022-11-07 01:31:13,626 - nopCommApplication -INFO - ***********executeBeforeEachStep***********
+2022-11-07 01:31:13,627 - nopCommApplication -INFO - click on logout button
+2022-11-07 01:31:15,129 - nopCommApplication -INFO - ***********executeBeforeEachStep***********
+2022-11-07 01:31:15,129 - nopCommApplication -INFO - Application Title: Your store. Login
+2022-11-07 01:31:18,133 - nopCommApplication -INFO - ***********executeBeforeEachStep***********
+2022-11-07 01:31:18,133 - nopCommApplication -INFO - close the browser
+2022-11-07 01:31:18,425 - nopCommApplication -INFO - Execution on browser: chrome
+2022-11-07 01:31:19,916 - nopCommApplication -INFO - ***********executeBeforeEachStep***********
+2022-11-07 01:31:19,917 - nopCommApplication -INFO - ***********Maximize browser***********
+2022-11-07 01:31:20,071 - nopCommApplication -INFO - ***********executeBeforeEachStep***********
+2022-11-07 01:31:20,071 - nopCommApplication -INFO - Application URL: https://admin-demo.nopcommerce.com/login?ReturnUrl=%2Fadmin%2F
+2022-11-07 01:31:21,184 - nopCommApplication -INFO - ***********executeBeforeEachStep***********
+2022-11-07 01:31:21,185 - nopCommApplication -INFO - enter userName admin123123@yourstore.com
+2022-11-07 01:31:21,396 - nopCommApplication -INFO - enter password admin123
+2022-11-07 01:31:21,547 - nopCommApplication -INFO - ***********executeBeforeEachStep***********
+2022-11-07 01:31:21,548 - nopCommApplication -INFO - click on login button
+2022-11-07 01:31:22,507 - nopCommApplication -INFO - ***********executeBeforeEachStep***********
+2022-11-07 01:31:22,508 - nopCommApplication -INFO - Application Title: Dashboard / nopCommerce administration
+2022-11-07 01:58:12,719 - nopCommApplication -INFO - Execution on browser: chrome
+2022-11-07 01:58:15,640 - nopCommApplication -INFO - ***********executeBeforeEachStep***********
+2022-11-07 01:58:15,641 - nopCommApplication -INFO - ***********Maximize browser***********
+2022-11-07 01:58:15,875 - nopCommApplication -INFO - ***********executeBeforeEachStep***********
+2022-11-07 01:58:15,875 - nopCommApplication -INFO - Application URL: https://admin-demo.nopcommerce.com/login?ReturnUrl=%2Fadmin%2F
+2022-11-07 01:58:16,993 - nopCommApplication -INFO - ***********executeBeforeEachStep***********
+2022-11-07 01:58:16,994 - nopCommApplication -INFO - enter userName admin@yourstore.com
+2022-11-07 01:58:17,175 - nopCommApplication -INFO - enter password admin
+2022-11-07 01:58:17,352 - nopCommApplication -INFO - ***********executeBeforeEachStep***********
+2022-11-07 01:58:17,353 - nopCommApplication -INFO - click on login button
+2022-11-07 01:58:20,338 - nopCommApplication -INFO - ***********executeBeforeEachStep***********
+2022-11-07 01:58:20,339 - nopCommApplication -INFO - Application Title: Dashboard / nopCommerce administration
+2022-11-07 01:58:23,344 - nopCommApplication -INFO - ***********executeBeforeEachStep***********
+2022-11-07 01:58:23,353 - nopCommApplication -INFO - click on logout button
+2022-11-07 01:58:24,511 - nopCommApplication -INFO - ***********executeBeforeEachStep***********
+2022-11-07 01:58:24,513 - nopCommApplication -INFO - Application Title: Your store. Login
+2022-11-07 01:58:27,522 - nopCommApplication -INFO - ***********executeBeforeEachStep***********
+2022-11-07 01:58:27,522 - nopCommApplication -INFO - close the browser
+2022-11-07 01:58:28,232 - nopCommApplication -INFO - Execution on browser: chrome
+2022-11-07 01:58:29,769 - nopCommApplication -INFO - ***********executeBeforeEachStep***********
+2022-11-07 01:58:29,771 - nopCommApplication -INFO - ***********Maximize browser***********
+2022-11-07 01:58:29,964 - nopCommApplication -INFO - ***********executeBeforeEachStep***********
+2022-11-07 01:58:29,964 - nopCommApplication -INFO - Application URL: https://admin-demo.nopcommerce.com/login?ReturnUrl=%2Fadmin%2F
+2022-11-07 01:58:30,483 - nopCommApplication -INFO - ***********executeBeforeEachStep***********
+2022-11-07 01:58:30,485 - nopCommApplication -INFO - enter userName admin123123@yourstore.com
+2022-11-07 01:58:30,707 - nopCommApplication -INFO - enter password admin123
+2022-11-07 01:58:30,881 - nopCommApplication -INFO - ***********executeBeforeEachStep***********
+2022-11-07 01:58:30,882 - nopCommApplication -INFO - click on login button
+2022-11-07 01:58:31,821 - nopCommApplication -INFO - ***********executeBeforeEachStep***********
+2022-11-07 01:58:31,822 - nopCommApplication -INFO - Application Title: Dashboard / nopCommerce administration
